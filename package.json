@@ -1,0 +1,45 @@
+{
+  "name": "bess-india-cashflow",
+  "version": "1.0.0",
+  "description": "Utility-scale BESS (Battery Energy Storage System) financial model and cash flow projector for the Indian IEX market",
+  "main": "src/BESSModel.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-dom": ">=18.0.0"
+  },
+  "dependencies": {
+    "recharts": "^2.12.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^5.0.0"
+  },
+  "keywords": [
+    "bess",
+    "battery-storage",
+    "energy-storage",
+    "india",
+    "iex",
+    "cashflow",
+    "financial-model",
+    "react",
+    "recharts",
+    "lfp",
+    "renewable-energy"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DarshakPatil/bess-india-cashflow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DarshakPatil/bess-india-cashflow/issues"
+  },
+  "homepage": "https://github.com/DarshakPatil/bess-india-cashflow#readme"
+}
